@@ -1,0 +1,7 @@
+{
+  "name": "food-for-thought",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

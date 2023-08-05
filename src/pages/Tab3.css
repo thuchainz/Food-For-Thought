@@ -1,0 +1,102 @@
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+}
+
+.container .first {
+    padding-top: 15px;
+}
+
+.profile-card {
+    width: 270px;
+    border-radius: 8px;
+    /*background-color: rgba(28,61,109, 0.6);*/
+}
+
+.img-container {
+    padding: 10px;
+}
+
+.profile-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.name {
+    padding-top: 35px;
+}
+
+.accordion {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+}
+
+.body-icon {
+    padding: 10px;
+    font-size: 18px;
+    color: #1C3D6D;
+}
+
+.basic-info {
+    padding: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #1C3D6D;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.basic-info-content {
+    padding-left: 5px;
+    font-size: 15px;
+}
+
+.basic-info-content2 {
+    padding-left: 10px;
+    font-size: 15px;
+}
+
+.edit-container {
+    padding-left: 28px;
+}
+
+.edit-button {
+    width: 55px;
+    height: 55px;
+}
+
+.edit-icon {
+    font-size: 25px;
+}
+
+.restrictions-content {
+    width: 93.5%;
+}
+
+.restrictions-header {
+    padding-left: 25px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.restrictions-section {
+    padding-left: 15px;;
+}
+
+.restrictions-item {
+    margin-top: -2px;
+    margin-right: -5px;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+.edit-container-2 {
+    margin-right: -5px;
+    padding-left: 5px;
+}

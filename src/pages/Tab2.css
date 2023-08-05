@@ -1,0 +1,36 @@
+.meal-num {
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.meal-num-text {
+    padding-top: 11px;
+}
+
+.meal-button {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.results {
+    margin-bottom: -20px;
+    padding: 20px;
+    width: 320px;
+}
+
+.results-title {
+    margin-top: -8px;
+    margin-bottom: -8px;
+    font-size: 18px;
+}
+
+.results-item {
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    font-size: 14px;
+}
