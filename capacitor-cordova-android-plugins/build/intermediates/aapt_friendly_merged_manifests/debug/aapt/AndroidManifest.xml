@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:amazon="http://schemas.amazon.com/apk/res/android"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="capacitor.android.plugins" >
+
+    <uses-sdk
+        android:minSdkVersion="22"
+        android:targetSdkVersion="32" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.BODY_SENSORS" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+    <uses-permission android:name="android.gms.permission.ACTIVITY_RECOGNITION" />
+
+    <queries>
+        <package android:name="com.google.android.apps.fitness" />
+    </queries>
+
+    <application>
+    </application>
+
+</manifest>

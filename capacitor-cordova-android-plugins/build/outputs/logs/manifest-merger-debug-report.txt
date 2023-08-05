@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:2:1-15:12
+	xmlns:amazon
+		ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:4:1-57
+	package
+		ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:2:11-46
+		INJECTED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:3:1-59
+application
+ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:5:1-7:15
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:8:1-74
+	android:name
+		ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:8:18-72
+uses-permission#android.permission.BODY_SENSORS
+ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:9:1-66
+	android:name
+		ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:9:18-64
+uses-permission#android.permission.ACTIVITY_RECOGNITION
+ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:10:1-74
+	android:name
+		ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:10:18-72
+uses-permission#android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:11:1-78
+	android:name
+		ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:11:18-76
+queries
+ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:12:1-14:11
+package#com.google.android.apps.fitness
+ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:13:3-60
+	android:name
+		ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml:13:12-58
+uses-sdk
+INJECTED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kyle\Documents\CS 125\food-for-thought\food-for-thought\android\capacitor-cordova-android-plugins\src\main\AndroidManifest.xml
