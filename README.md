@@ -13,4 +13,4 @@ Install Ionic
 `ionic serve`
 
 # Preview
-<img src="/preview.gif">
+<img src="/preview.gif" width="250px" height="500px">
